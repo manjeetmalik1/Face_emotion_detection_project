@@ -1,0 +1,16 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+
+images                    # labels
+images/angry/mini.png     #  angry
+images/angry/m.png         #  angry
+images/sad/mini.png         # sad
+images/sad/m.png             # sad
+load_img(img,grayscale=True)
